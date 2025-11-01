@@ -391,6 +391,12 @@ label {
   letter-spacing: 0%;
   text-align: left;
 }
+@media (width>=2100px) {
+  .image {
+    width: 1300px;
+    top: 5vh;
+  }
+}
 @media (max-width: 1400px) {
   .container {
     max-width: 1000px;
