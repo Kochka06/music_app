@@ -1,2 +1,2 @@
-# music_app
+# MusicPlayer
 This my seecond project: Music App
